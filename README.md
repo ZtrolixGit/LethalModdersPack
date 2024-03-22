@@ -8,6 +8,9 @@
 > [!WARNING]
 > This modpack is in beta!
 
+> [!IMPORTANT]  
+> Please install Thunderstore and setup Lethal Company with it for this to work!
+
 ### Downloads
 
 - #### Thunderstore Download: [Overwolf](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager)
