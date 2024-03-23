@@ -2,14 +2,14 @@
 <h3 align="center">LethalModdersPack is a Modpack for Lethal Company.</h3>
 
 > [!NOTE]
-> I do not own BepInEx or any mods in this modpack
+> I do not own BepInEx or any mods in this mod pack
 > I do not redistribute Lethal Company
 
 > [!WARNING]
-> This modpack is in beta!
+> This mod pack is in beta!
 
 > [!IMPORTANT]  
-> Please install Thunderstore and setup Lethal Company with it for this to work!
+> Please install Thunderstore and set up Lethal Company with it for this to work!
 
 ### Downloads
 
