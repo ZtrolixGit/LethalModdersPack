@@ -5,9 +5,6 @@
 > I do not own BepInEx or any mods in this mod pack
 > I do not redistribute Lethal Company
 
-> [!WARNING]
-> This mod pack is in beta!
-
 > [!IMPORTANT]  
 > Please install Thunderstore and set up Lethal Company with it for this to work!
 
